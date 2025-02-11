@@ -7,4 +7,4 @@ services:
       - .:/home/rstudio/work
     environment:
       PASSWORD: "password"
-      DISABLE_AUTH = true 
+      DISABLE_AUTH: true 
