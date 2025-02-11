@@ -1,6 +1,6 @@
 services:
   analysis-env:
-    image: angelayandrofski/mycontainer
+    image: dockerfile-practice
     ports:
       - "8787:8787"
     volumes:
